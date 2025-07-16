@@ -3,6 +3,11 @@
 ## Overview
 Detects insider threats using machine learning by analyzing user behavior, system access, and anomalies. Includes simulated logs, anomaly detection models, a combined dashboard, explainability tools, graph analysis, and red team simulation.
 
+<img width="2429" height="1038" alt="image" src="https://github.com/user-attachments/assets/3222f4cc-304c-4d84-975e-c441531e8d7f" />
+
+<img width="2416" height="1235" alt="image" src="https://github.com/user-attachments/assets/a10dd8bf-ecec-4ffd-b9b5-a7e7e963ced0" />
+
+
 ## Features
 - Simulated and real log ingestion (user logins, file access, USB usage, emails)
 - Feature engineering for behavioral, frequency, anomaly, graph, and NLP features
